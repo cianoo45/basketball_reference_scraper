@@ -4,10 +4,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="basketball_reference_scraper",
-    version="1.0.29",
-    author="Vishaal Agartha",
-    author_email="vishaalagartha@gmail.com",
+    name="basketball_reference_scraperV2",
+    version="2.0.0",
+    author="Cian Doyle",
+    author_email="cianoo45@gmail.com",
     license="MIT",
     description="A Python client for scraping stats and data from Basketball Reference",
     long_description=long_description,

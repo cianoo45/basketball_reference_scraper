@@ -57,6 +57,7 @@ TEAM_TO_TEAM_ABBR = {
         'BALTIMORE BULLETS' : 'BAL',
         'CHICAGO ZEPHYRS' : 'CHI',
         'CHICAGO PACKERS' : 'CHI',
+        'LEAGUE AVERAGE': 'AVG',
 
         # DEFUNCT FRANCHISES
         'ANDERSON PACKERS': 'AND',

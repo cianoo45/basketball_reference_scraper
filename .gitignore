@@ -7,6 +7,6 @@ dist/
 build/
 *egg-info/
 *.ipynb
-
+.idea
 .vscode
 env
